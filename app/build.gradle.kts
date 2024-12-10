@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "uts.c14220057.room"
+    namespace = "com.example.room"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "uts.c14220057.room"
+        applicationId = "com.example.room"
         minSdk = 33
         targetSdk = 34
         versionCode = 1
